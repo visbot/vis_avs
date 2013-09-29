@@ -23,7 +23,6 @@ This is the original `readme.txt` that came with the source code:
 > Greetings,  
 > 'Warrior of the Light'  
 > http://Warrior-of-the-Light.net  
-> info.wotl@gmail.com  
 
 ## License
 
