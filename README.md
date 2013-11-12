@@ -6,7 +6,7 @@ Advanced Visualization Studio (AVS), is a music visualization plugin for Winamp.
 
 ## Notes
 
-What follows is a verbatim copy from the original `readme.txt` which came with the source code.
+What follows is a reformatted copy from the original `readme.txt` which came with the source code.
 
 > [DrO](http://forums.winamp.com/member.php?s=&action=getinfo&userid=122037) has updated v2.81b to v2.81d by changing a few files, as he posted [here](http://forums.winamp.com/showthread.php?postid=2054764#post2054764)  
 
